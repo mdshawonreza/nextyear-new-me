@@ -1,0 +1,71 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* this is header style */
+.header-container{
+    text-align: right;
+    padding: 160px 150px 140px 750px;
+    background-image: url(../images/banner/banner3.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    i
+    
+}
+.header-description{
+    margin: 24px 0px;
+    color: #FFF;
+font-family: Work Sans;
+font-size: 16px;
+font-weight: 400;
+}
+.header-head{
+    color: #FFF;
+    font-family: Work Sans;
+    font-size: 55px;
+    font-weight: 700;
+}
+.header-container > button{
+    color: #005FAC;
+font-family: Work Sans;
+font-size: 20px;
+font-weight: 600;
+padding: 18px 23px;
+}
+/* this is main section-1 style */
+.section1{
+   margin:130px 180px 130px 120px ;
+}
+.s1-main-container{
+    display: flex;
+    align-items: center;
+    gap: 87px;
+}
+.s1-main-description{
+    padding: 140px 50px 0px 0px;
+}
+.s1-description{
+    padding: 20px 0px 18px;
+    color: #444343;
+font-family: Work Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 23px;
+}
+.s1-list{
+    color: #444343;
+font-family: Work Sans;
+font-size: 16px;
+font-weight: 400;
+padding-left: 15px;
+
+}
+li{
+    padding: 4px 0px;
+}
+.s1-head{
+    color: #151414;
+font-family: Work Sans;
+font-size: 40px;
+font-weight: 700;
+}
